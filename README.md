@@ -22,7 +22,7 @@ Kinda hanging around the ☀️ in every 365 days, along with 🌎 and my 💻.
 <hr/>
 
 ### 💬 How to Connect
-Feel free to drop a 👋 over Twitter - [@HeySreelal](https://twitter.com/HeySreelal)
+Feel free to drop a 👋 over [Twitter](https://twitter.com/HeySreelal) or [Telegram](https://t.me/HeySreelal).
 
 ### 🎯 Fun Fact
 I once made a bot on Telegram to surprise my GF on her birthday! 
