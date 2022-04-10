@@ -38,7 +38,11 @@ I once made a bot on Telegram to surprise my GF on her birthday!
 
 Sometimes high, sometimes low! I actively use GitHub for my personal projects and to showcase my works! 🦄 Also, I love to contribute into Flutter or Node.js projects. 
 
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=heysreelal&show_icons=true&theme=dracula&line_height=27)
+
+</div>
 
 ![](https://activity-graph.herokuapp.com/graph?username=heysreelal&theme=redical)
 
