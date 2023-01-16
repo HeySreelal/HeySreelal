@@ -10,7 +10,9 @@
 
 ## 🦄 Latest From Me 🦄
 
-- Currently on a mission to build as many Flutter UIs as possible! Check out [Flutter Everyday](https://github.com/HeySreelal/Flutter-Everyday) 👨🏻‍💻
+- 🆕 **Televerse!!!** - An efficient and easy Telegram Bot API Wrapper for Dart! Check it out [here](https://pub.dev/packages/televerse) 🤖
+
+- I've been on a mission to build as many Flutter UIs as possible! Check out [Flutter Everyday](https://github.com/HeySreelal/Flutter-Everyday) 👨🏻‍💻
 - [Personal website is up and running.](https://heysreelal.web.app/) 🌐
 
 <br>
