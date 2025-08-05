@@ -1,63 +1,72 @@
-<h1 align="center">👋 Hey, Sreelal here.</h1>
-<h5 align="center">Under the sun, in search of another sun. 🛰</h5>
-<p align="center">
-  <a href="https://t.me/heysreelal">Telegram</a> •
-  <a href="https://heysreelal.medium.com">Blog</a> •
-  <a href="https://twitter.com/heysreelal">Twitter</a>
-</p>
+# Hi there, I'm Sreelal 👋
 
-<hr/>
+**Software Engineer at Weaver Labs**
 
-## 🦄 Latest From Me 🦄
+I'm a passionate developer specializing in mobile app development, web development, and bot automation. I love building solutions that make a real impact, from event management systems to AI-powered tools.
 
-- 🆕 **Televerse!!!** - An efficient and easy Telegram Bot API Wrapper for Dart! Check it out [here](https://pub.dev/packages/televerse) 🤖
+## 🚀 What I Do
 
-- I've been on a mission to build as many Flutter UIs as possible! Check out [Flutter Everyday](https://github.com/HeySreelal/Flutter-Everyday) 👨🏻‍💻
-- [Personal website is up and running.](https://heysreelal.web.app/) 🌐
+- **Mobile Development:** Crafting beautiful, performant apps with Flutter and Dart
+- **Web Development:** Building responsive web applications with modern JavaScript
+- **Bot Development:** Creating intelligent automation solutions and Telegram bots
+- **AI Integration:** Developing RAG systems and AI-powered applications
 
-- Pokit QR App is now live on Play Store:
+## 💼 Tech Stack
 
-  <a href="https://play.google.com/store/apps/details?id=com.pokitqr.pokitqr">
-    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80"/>
-  </a>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<hr>
+## 🎯 Featured Projects
 
-<br>
+### 🤖 [Televerse](https://pub.dev/packages/televerse)
+An efficient and easy-to-use Telegram Bot API wrapper for Dart developers. Making bot development accessible and enjoyable.
 
-## ✍️ What do I do?
+### 🎉 Highfive
+Event management application built with Flutter for the University of Winnipeg, streamlining campus event organization and participation.
 
-Kinda hanging around the ☀️ in every 365 days, along with 🌎 and my 💻.
+### 🛍️ Elite Brothers
+Full-stack e-commerce solution for a local Winnipeg store, featuring modern web technologies and seamless user experience.
 
-- 👀 I’m
-  - 👨🏻‍💻 Organizer for Flutter Kozhikode
-  - 🏅 Platinum PE at Google Product Experts Program.
-  - 💙 VUI & Flutter Dev.
-  - 🎙 Speaker & Tech Writer
-- 💙 Currently in love with Flutter & Building Telegram Bots 💙
+### 📚 Vaithari
+Educational platform designed to make e-learning intuitive and engaging, developed for institutional use.
 
-<hr/>
+### 🤝 Pact
+Collaborative decision-making app built with Flutter, helping teams make informed choices together.
 
-## 💬 How to Connect
+### 💕 Radaar
+Social matching application with Bumble-like functionality, focusing on meaningful connections.
 
-Feel free to drop a 👋 over [Twitter](https://twitter.com/HeySreelal) or [Telegram](https://t.me/HeySreelal). I always prefer Telegram as I feel more connected to people.
+### 🤖 PE Buddy
+Website and companion RAG system designed to elevate AI assistance for Google Product Experts, enhancing community support.
 
-## 🎯 Fun Fact
+## 🏆 Recognition & Impact
 
-I once made a bot on Telegram to surprise my GF on her birthday!
+- **🥇 Platinum Product Expert** - Google Chrome (Product Expert Program)
+- **👨‍💻 Community Leader** - Organizer for Flutter Kozhikode
+- **🚔 Government Collaboration** - Worked with Kerala Police CyberDome to develop Google Assistant extension for public service accessibility
+- **🎤 Speaker & Writer** - Sharing knowledge through tech talks and articles
 
-## 🏆 Stats
-
-Sometimes high, sometimes low! I actively use GitHub for my personal projects and to showcase my works! 🦄 Also, I love to contribute into Flutter or Node.js projects.
+## 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=heysreelal&show_icons=true&theme=dracula&line_height=27)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heysreelal&show_icons=true&theme=default&hide_border=true&line_height=27)
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=heysreelal&theme=minimal&hide_border=true)
 
 </div>
 
-![](https://activity-graph.herokuapp.com/graph?username=heysreelal&theme=redical)
+## 🌐 Let's Connect
 
-<h1 align="center">Thank You 🦄</h1>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/heysreelal)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/heysreelal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/heysreelal)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://heysreelal.medium.com)
 
-[Twitter](https://twitter.com/HeySreelal) | [Telegram](https://t.me/heysreelal)
+---
+
+<div align="center">
+<i>Building the future, one line of code at a time ✨</i>
+</div>
